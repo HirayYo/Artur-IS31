@@ -1,9 +1,9 @@
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Welcome! I **-HirayYO**  Today we will analyze the Spotify application! ![Spotify](https://digiseller.mycdn.ink/preview/820112/p1_3450772_0bbe1bea.png)
 
 
-## > Who is this file intended for
+### > Who is this file intended for
 
 This file is intended for regular Spotify users, not for developers.
 
@@ -19,7 +19,7 @@ The goal is to provide a general understanding of how Spotify works, its main fu
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Basic Entities in Spotify
+### Basic Entities in Spotify
 
 1. User (User):
  - This is your personal Spotify account. Your information is stored here: name, email, profile photo, etc.
@@ -76,7 +76,11 @@ In this way, Spotify allows you to fully manage your music collection and access
 
 5. Enjoy, you are wonderful.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### Activity diagram.
-
+### UML Diagram
+ 
+Activity diagram.
 ![Activity diagram](https://github.com/HirayYo/Artur-IS31/blob/main/Activity%20diagram.png)
+
+
