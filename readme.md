@@ -15,23 +15,17 @@
 
 ### Installation:
 
-#### 1. Go to the official site of [Spotify](https://www.spotify.com/).
+1. Go to the official site of [Spotify](https://www.spotify.com/).
  
-#### 2. Click **download**.
+2. Click **download**.
 
-#### 3. Let's register.
+3. Let's register.
 
-#### 4. We choose our favorite performers and groups.
+4. We choose our favorite performers and groups.
 
-#### 5. Enjoy, you are wonderful.
-
-#### Installation . 
-![Installation](https://github.com/HirayYo/Artur-IS31/blob/main/install.png)
+5. Enjoy, you are wonderful.
 
 
-#### Register . 
-![Register](https://github.com/HirayYo/Artur-IS31/blob/main/registerdiagr.png)
+#### Activity diagram.
 
-#### 3.
-
-![](https://github.com/HirayYo/Artur-IS31/blob/main/Account%20Creation%20Diagram.png)
+![Activity diagram](https://github.com/HirayYo/Artur-IS31/blob/main/Activity%20diagram.png)
