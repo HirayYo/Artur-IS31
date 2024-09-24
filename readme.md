@@ -1,11 +1,15 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Hi! I **-HirayYO**  This is  Spotify analytics. Enjoy watching! ![Spotify](https://digiseller.mycdn.ink/preview/820112/p1_3450772_0bbe1bea.png)
+
+# Привет! Я **-HirayYO**    Это аналитика Spotify. Приятного просмотра! ! [Spotif(https://digiseller.mycdn.ink/preview/820112/p1_3450772_0bbe1bea.png )
+
+# Welcome! I **-HirayYO**   is my Spotify analytics. Enjoy watching! ![Spotify](https://digiseller.mycdn.ink/preview/820112/p1_3450772_0bbe1bea.png)
+
 
 
 ### > Who is this file intended for
 
-This file is intended for regular Spotify users, not for developers.
+This is file intended for regular Spotify users, not for developers.
 
 It will be interesting:
 
