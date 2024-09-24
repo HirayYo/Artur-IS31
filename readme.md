@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Hi! I **-HirayYO**  This is my Spotify analytics. Enjoy watching! ![Spotify](https://digiseller.mycdn.ink/preview/820112/p1_3450772_0bbe1bea.png)
+# Hi! I **-HirayYO**  This is  Spotify analytics. Enjoy watching! ![Spotify](https://digiseller.mycdn.ink/preview/820112/p1_3450772_0bbe1bea.png)
 
 
 ### > Who is this file intended for
