@@ -5,7 +5,7 @@
 
 ### > Who is this file intended for
 
-This file is intended for regular Spotify users, not for developers.
+This is file intended for regular Spotify users, not for developers.
 
 It will be interesting:
 
